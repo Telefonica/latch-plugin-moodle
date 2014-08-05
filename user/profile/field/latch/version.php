@@ -28,5 +28,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2014030600;        // The current plugin version (Date: YYYYMMDDXX)
-$plugin->requires  = 2013051400;        // Requires this Moodle version (2.5)
+$plugin->requires  = 2012062500;        // Requires this Moodle version (2.5)
 $plugin->component = 'profilefield_latch'; // Full name of the plugin (used for diagnostics)
